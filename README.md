@@ -2,6 +2,9 @@
 ## Project Objective
 This project uses Microsoft Excel to analyze and visualize historical and forecasted weather data. It focuses on examining temperature, humidity, wind speed, and visibility through charts and pivot tables. The goal is to identify trends, variations, and patterns to support weather-related decision-making.
 
+## Tool used
+- Microsoft Excel
+
 ## Dataset used
 - <a href="https://github.com/gomathimurthi199930/GitHub_Excel-Project/blob/main/WeatherHistory.xlsx"> view Data set</a>
 
